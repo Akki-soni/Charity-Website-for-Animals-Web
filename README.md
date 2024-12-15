@@ -53,7 +53,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Airline-Website-Screenshot](/Airline_Screenshot.png)
+![Charity-Website-for-Animals-Screenshot](/Charity-Website_Screenshot.png)
 
 ## 🔗 Live Demo
 
