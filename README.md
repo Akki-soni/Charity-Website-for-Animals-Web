@@ -38,8 +38,8 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Airline-Website-Web.git>
-cd Airline-Website-Web
+git clone <https://github.com/Akki-soni/Charity-Website-for-Animals-Web.git>
+cd Charity-Website-for-Animals-Web
 open index.html
 ```
 
@@ -53,7 +53,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Charity-Website-for-Animals-Screenshot](/Charity-Website_Screenshot.png)
+![Charity-Website-for-Animals-Screenshot](/Animals-Charity_Screenshot.png)
 
 ## 🔗 Live Demo
 
