@@ -18,18 +18,18 @@
 </p>
 
 <p align="center">
-  A modern and responsive Airline page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean, minimalistic design with smooth animations and a user-friendly interface.
+  A modern and responsive Charity Website for Animals page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean, minimalistic design with smooth animations and a user-friendly interface.
 </p>
 
 ## 🛠️ Features
 
 - **Responsive Design**: The login page is fully responsive and adjusts to various screen sizes.
-- **Smooth Animations**: Subtle animations on input fields and buttons for a modern look and feel.
+- **Smooth Animations**: Suitable animations on input fields and buttons for a modern look and feel.
 - **Stylish Layout**: Minimalistic and clean design with a modern touch.
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For creating the structure of the Airline page.
+- **HTML5**: For creating the structure of the Animals Charity page.
 - **CSS3**: For styling the page, including layout, colors, and animations.
 - **JavaScript**: For validation and interactivity.
 
